@@ -7,6 +7,8 @@ For some decks, there might not be a combo because:
 * There isn't a basic combo; it varies significantly depending on the cards in starting hand. For example, for decks like 'External Worlds' or 'Crearmor,' almost any hand with at least 3 different monsters is playable, but everytime the combo is slightly different.
 * I haven't had the time, I have created a lot of archetypes. I'll try to add at least 1 example combo for each deck where it's possible and update those that are no longer feasible due to banned cards.
 
+Download the [zip](https://raw.githubusercontent.com/Secuter/SecuterYGOCustomCards-Replays/main/replay.zip) with all replays.
+
 ### Engine, old and banned combos
 
 There are some replays that ends with 'engine', 'old' or 'banned'.
