@@ -1,6 +1,6 @@
 ## Example Combo Replays
 
-Download the [replay.zip](https://github.com/Secuter/ SecuterYGOCustomCards-Replays/releases/latest/download/replay.zip) with all replays.
+Download the [replay.zip](https://github.com/Secuter/SecuterYGOCustomCards-Replays/releases/latest/download/replay.zip) with all replays.
 
 These examples are meant to give you an idea of the deck's strategy and usually starts with 1-2 cards. This is because for more complex combos, a single replay wouldn't be enough since there could be dozens of possibilities depending on the starting hand.<br>
 There should be a combo replay for almost all archetypes, except when there isn't a basic combo, see the categories below.
