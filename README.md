@@ -3,13 +3,14 @@
 Download the [zip](https://raw.githubusercontent.com/Secuter/SecuterYGOCustomCards-Replays/main/replay.zip) with all replays.
 
 These examples are meant to give you an idea of the deck's strategy and usually starts with 1-2 cards. This is because for more complex combos, a single replay wouldn't be enough since there could be dozens of possibilities depending on the starting hand.<br>
-There should be a combo replay for almost all archetypes, except when there isn't a basic combo, see the 3 categories below.
+There should be a combo replay for almost all archetypes, except when there isn't a basic combo, see the categories below.
 For new archetypes or if used cards are banned, I will try to add/update the combo as soon as possible.
  
 For some decks, there might not be a combo because:
-* The deck doesn't have a combo but instead plays in response to opponent's actions, eg. archetypes like 'D.D. Invader' or 'Soulbound.'
-* There isn't a basic combo; it varies significantly depending on the cards in starting hand. For example, for decks like 'External Worlds' or 'Crearmor,' almost any hand with at least 3 different monsters is playable, but everytime the combo is different.
-* The deck starts second and doesn't have an OTK combo; the plays heavily depend on what the opponent has.
+* The deck doesn't have a combo but instead plays in response to opponent's actions. [D.D. Invader, Soulbound]
+* There isn't a basic combo; it varies significantly depending on the cards in starting hand. Almost any hand with at least 3 different monsters is playable, but everytime the combo is different. [External Worlds, Crearmor, Arcaeonix]
+* The deck starts second and doesn't have an OTK combo; the plays heavily depend on what the opponent has. [Blaze Dragonlady, Eternal Storm]
+* The deck mills cards from the top of the deck; the combo depends on what gets milled. [Ancient Oracle, Worldless]
 
 ### Replay Tags
 
