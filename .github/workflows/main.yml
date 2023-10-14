@@ -22,11 +22,11 @@ jobs:
       uses: actions/checkout@v4
       
     - name: Zip the folder
-      run: zip -r deck.zip deck
+      run: zip -r replay.zip replay
       
     - name: Create a release
       uses: ncipollo/release-action@v1
       with:
-        artifacts: "deck.zip"
+        artifacts: "replay.zip"
         tag: ${{ github.run_number }}
         name: "Release ${{ github.run_number }}"
