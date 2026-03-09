@@ -22,7 +22,7 @@ jobs:
       uses: actions/checkout@v4
       
     - name: Zip the folder
-      run: zip -r replay.zip replay
+      run: zip -r replay.zip ./*.yrpX
       
     - name: Create a release
       uses: ncipollo/release-action@v1
